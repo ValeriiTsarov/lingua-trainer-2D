@@ -1,0 +1,8 @@
+Assets in this folder are by Kenney (www.kenney.nl), License: Creative Commons Zero (CC0)
+http://creativecommons.org/publicdomain/zero/1.0/
+
+icons/  — "Game Icons (1.0)", PNG/White/2x, renamed:
+  close=cross, star=star, check=checkmark, info=information, question=question,
+  soundOn=audioOn, soundOff=audioOff, lock=locked, gear=gear, back=arrowLeft
+sfx/    — "Interface Sounds (1.0)": tap=select_001, correct=confirmation_001, wrong=error_006, match=pluck_001
+          "Music Jingles": complete=jingles-pizzicato_00
